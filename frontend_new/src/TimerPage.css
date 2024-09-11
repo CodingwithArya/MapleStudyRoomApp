@@ -1,0 +1,26 @@
+/* src/TimerPage.css */
+.timer-page {
+    text-align: center;
+    padding: 20px;
+}
+
+.timer-display {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    background-color: #e0e0e0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 3em;
+    margin: 20px auto;
+}
+
+button {
+    padding: 10px 20px;
+    font-size: 1.2em;
+    background-color: #ccc;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
